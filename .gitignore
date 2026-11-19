@@ -1,0 +1,11 @@
+# Duplicate deployment folder
+/portfolio-site/
+
+# Deployment archives
+*.tar.gz
+
+# Local design backups contain old contact details; never publish them.
+/_backup_default/
+
+# Resume documents stay local. Other images, icons and fonts remain publishable.
+assets/**/*[Rr][Ee][Ss][Uu][Mm][Ee]*.[Pp][Dd][Ff]
